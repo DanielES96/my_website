@@ -72,7 +72,7 @@
    			<div class="col-twelve">
 
 	   			<h5>Hello!</h5>
-	   			<h1>I'm Daniel Elizondo Sánchez.</h1>
+	   			<h1>I'm DanielES.</h1>
 
 	   			<p class="intro-position">
 	   				<span>Front-end Developer</span>
